@@ -7,7 +7,7 @@ This repository contains a Jupyter notebook that showcases the steps to:
 2. Perform text preprocessing and cleaning.
 3. (Additional steps might be present further in the notebook which are not covered in this brief overview).
 
-## Setup and Usage
+## Setup and Usagee
 
 ### Prerequisites
 - Python 3.x
